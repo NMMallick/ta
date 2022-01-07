@@ -1,0 +1,1 @@
+This software is for the University of Pittsburgh's ECE 0302 Datastructures course. The purose of this software is to streamline the grading process for the projects presented throughout the course. It's built around the Catch test framework and requires the test-cases provided from the University of Pittsburgh.
